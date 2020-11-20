@@ -6,7 +6,7 @@
 //         "node": true
 //     },
 //     "rules":{
-        
+//         "object-curly-spacing": false
 //     },
 //     "extends": ["eslint:recommended", "google"]
 // }
